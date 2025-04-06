@@ -1,5 +1,5 @@
 ### Hi there 👋
-A Computer Engineering student from Egypt, who is very passionate about coding and evolving!
+I am Abdelrahman, a Computer Engineering student from Egypt, who is very passionate about coding and evolving!
   - 🔭 I’m currently working on improving my software development skills through training and courses.
 - ⬅ Previously, I was learning Self-driving cars, Cybersecurity, and Networking engineering.
 - 🌱 I’m currently learning Web Development. 
