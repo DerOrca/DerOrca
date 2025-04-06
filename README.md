@@ -36,9 +36,6 @@ I am Abdelrahman, a Computer Engineer from Egypt, passionate about coding and ev
   <a href="https://matlabacademy.mathworks.com/">
     <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.raspberrypi.org/learn/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
   <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
@@ -56,6 +53,12 @@ I am Abdelrahman, a Computer Engineer from Egypt, passionate about coding and ev
   </a>
   <a href="https://dev.mysql.com/doc/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="CSS" width="40" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis.html">
+    <img src="https://logosandtypes.com/wp-content/uploads/2020/08/xilinx.svg" alt="CSS" width="40" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="CSS" width="40" height="50"/>&nbsp;
   </a>
 </div>
 
