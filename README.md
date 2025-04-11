@@ -36,9 +36,6 @@ I am Abdelrahman, a Computer Engineer from Egypt, passionate about coding and ev
   <a href="https://releases.ubuntu.com/18.04/">
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://matlabacademy.mathworks.com/">
-    <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
   <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
