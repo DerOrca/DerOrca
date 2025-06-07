@@ -2,7 +2,7 @@
 I am Abdelrahman, a Computer Engineer from Egypt, passionate about coding and evolving!
   - 🔭 I’m currently working on improving my software development skills through training and courses.
 - ⬅ Previously, I was learning Self-driving cars, Cybersecurity, and Networking engineering.
-- 🌱 I’m currently learning Web Development. 
+- 🌱 I’m currently learning back-end Web Development. 
 - 💬 Ask me about Problem-solving and Localization.
 - 📫 How to reach me: abdo12232000@gmail.com
 - Here are some of my <a href="https://drive.google.com/drive/u/0/folders/1rS5neb4rtOgShae39tkEVFDhbRHjMslF">
