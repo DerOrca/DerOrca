@@ -1,9 +1,8 @@
 ### Hi there 👋
 I am Abdelrahman, a Computer Engineer from Egypt, passionate about coding and evolving!
-  - 🔭 I’m currently working on improving my software development skills through training and courses.
-- ⬅ Previously, I was learning Self-driving cars, Cybersecurity, and Networking engineering.
-- 🌱 I’m currently learning back-end Web Development using Django. 
-- 💬 Ask me about Problem-solving and Localization.
+  - 🔭 I’m currently working on improving my software development skills through projects, courses and my master Degree.
+- ⬅ Previously, I studied Self-driving cars, Cybersecurity, and Networking engineering and worked as a Teacher Assistant in my university.
+- 🌱 I’m currently learning back-end Web Development using Django and mobile development using Flutter.
 - 📫 How to reach me: abdelrahman.nabil.i.a@gmail.com
 - Here are some of my <a href="https://drive.google.com/drive/u/0/folders/1rS5neb4rtOgShae39tkEVFDhbRHjMslF">
     Certificats
